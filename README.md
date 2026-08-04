@@ -1,5 +1,3 @@
----
-
 **SJI Zakat Management**
 
 ## What's New
