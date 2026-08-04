@@ -1,3 +1,12 @@
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/66f6b5e5-5a94-40ad-8555-c9e3897f383c" />
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/80dc35f7-0fda-4036-a946-40f1f2b7e152" />
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a29e417f-7e08-4ad4-b806-7c4260373c1b" />
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/ada2347b-681a-43ef-b515-ce9324184258" />
+
 **SJI Zakat Management**
 
 ## What's New
