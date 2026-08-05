@@ -1,3 +1,15 @@
+**Note for Windows Build:**
+
+On a machine that has never had Visual Studio or any Visual C++ redistributable installed, please install the free Visual C++ Redistributable
+
+👉 Download from Microsoft (free, ~25 MB):
+
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+This installs the required MSVC runtime without needing Visual Studio itself. Run it once on the target machine, then sjizakat.exe will open normally.
+
+---
+
 
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/66f6b5e5-5a94-40ad-8555-c9e3897f383c" />
 
