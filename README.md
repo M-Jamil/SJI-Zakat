@@ -1,6 +1,8 @@
 
 **For Android devices, please download from Google Playstore:**
 
+No Ads, completely free and local (no internet is required once downloaded):
+
 https://play.google.com/store/apps/details?id=com.sji.sjizakat&pcampaignid=web_share
 
 
