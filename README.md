@@ -1,4 +1,8 @@
 
+***Download from Google Playstore: ***
+https://play.google.com/store/apps/details?id=com.sji.sjizakat&pcampaignid=web_share
+
+
 
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/66f6b5e5-5a94-40ad-8555-c9e3897f383c" />
 
