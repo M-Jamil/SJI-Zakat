@@ -4,7 +4,7 @@
 **Package ID:** `com.sji.sjizakat`  
 **Platforms:** Android · iOS · macOS · Windows  
 **Effective Date:** 2025-07-01  
-**Last Updated:** 2025-07-01
+**Last Updated:** 2026-10-06
 
 ---
 
